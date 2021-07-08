@@ -5,3 +5,4 @@ Based on GA algorithm, this program can quickly select some test questions from 
 
 
 
+![name-of-you-image](https://github.com/AlanYangYi/GA-Algorithm/blob/main/GA.png?raw=true)
