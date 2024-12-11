@@ -63,7 +63,7 @@ Identifies the question set with the highest fitness score in a generation.
 ## How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo-name/ga-algorithm
+   git clone https://github.com/AlanYangYi/GA-Algorithm.git
    ```
 2. Open the project in Visual Studio or your preferred C# IDE.
 3. Build the solution to resolve dependencies.
@@ -89,14 +89,6 @@ The best generation is found, the score is 0.92, the generation is 20
 ```
 
 ---
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contribution
-Contributions are welcome! Please open an issue or submit a pull request if you would like to enhance this project.
 
 
 
