@@ -1,7 +1,7 @@
 # Genetic Algorithm Implementation in C#
 
 ## Overview
-This repository contains a C# implementation of a Genetic Algorithm (GA) designed for solving optimization problems related to generating question sets with specific difficulty and knowledge coverage requirements.
+This repository contains a C# implementation of a Genetic Algorithm (GA) designed for solving optimization problems related to generating question sets (in Chinese: 组卷问题)with specific difficulty and knowledge coverage requirements.
 
 ### Key Features:
 - **Randomized Question Generation**: A pool of questions is generated with varying types, difficulties, and knowledge points.
