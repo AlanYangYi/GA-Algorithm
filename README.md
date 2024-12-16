@@ -60,16 +60,6 @@ Identifies the question set with the highest fitness score in a generation.
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```
-   git clone https://github.com/AlanYangYi/GA-Algorithm.git
-   ```
-2. Open the project in Visual Studio or your preferred C# IDE.
-3. Build the solution to resolve dependencies.
-4. Run the project. The program will generate a question pool and start the genetic algorithm.
-
----
 
 ## Customization
 - **Difficulty and Knowledge Points**: Modify the `fitnessfunction` parameters to adjust the desired difficulty and knowledge point requirements.
