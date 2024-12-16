@@ -4,7 +4,7 @@
 This repository contains a C# implementation of a Genetic Algorithm (GA) designed for solving optimization problems related to generating question sets (in Chinese: 组卷问题)with specific difficulty and knowledge coverage requirements.
 
 ### Key Features:
-- **Randomized Question Generation**: A pool of questions is generated with varying types, difficulties, and knowledge points.
+- **Randomized Question Generation**: A pool of questions is generated with varying types, difficulties, and knowledge points (Questions.cs).
 - **Population Management**: Handles the creation of the initial population and subsequent generations.
 - **Fitness Evaluation**: Evaluates the suitability of each question set based on predefined difficulty and knowledge point criteria.
 - **Selection, Crossover, and Mutation**: Implements core genetic algorithm techniques for evolving the population.
@@ -93,4 +93,5 @@ The best generation is found, the score is 0.92, the generation is 20
 
 
 
-![name-of-you-image](https://github.com/AlanYangYi/GA-Algorithm/blob/main/GA.png?raw=true)
+![GA Algorithm](https://github.com/AlanYangYi/GA-Algorithm/blob/main/GA.png?raw=true)
+![Computational Results](https://github.com/AlanYangYi/GA-Algorithm/blob/main/Results.jpg)
